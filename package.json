@@ -1,0 +1,28 @@
+{
+  "name": "codecept.js-amazon",
+  "version": "1.0.0",
+  "description": "test automation tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ecmember/codecept.js-amazon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ecmember/codecept.js-amazon/issues"
+  },
+  "homepage": "https://github.com/ecmember/codecept.js-amazon#readme",
+  "devDependencies": {
+    "selenium-standalone": "^6.23.0",
+    "webdriverio": "^5.23.0"
+  },
+  "dependencies": {
+    "codeceptjs": "^3.0.6",
+    "puppeteer": "^8.0.0"
+  }
+}
